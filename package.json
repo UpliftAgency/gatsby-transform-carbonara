@@ -1,6 +1,6 @@
 {
   "name": "gatsby-transform-carbonara",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert code into images using carbon.now.sh",
   "main": "index.js",
   "scripts": {
